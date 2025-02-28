@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-ainsworth/__init__.py
-ainsworth/searching.py
-ainsworth/sorting.py
-ainsworth.egg-info/PKG-INFO
-ainsworth.egg-info/SOURCES.txt
-ainsworth.egg-info/dependency_links.txt
-ainsworth.egg-info/top_level.txt
