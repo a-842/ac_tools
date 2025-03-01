@@ -3,7 +3,7 @@ from PIL import Image, ImageTk
 import tkinter as tk
 
 class ArrayImageViewer:
-   """
+    """
     A class that converts a 2D array into an image and displays it using either a Tkinter window 
     or the default image viewer.
 
